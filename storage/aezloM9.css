@@ -1,0 +1,48 @@
+.az9-white{
+  color: #141414;
+  background-color: blue;
+}
+html, body {
+  background-color: #141414;
+  font-
+}
+
+.header-1 {
+  padding: 60px;
+  text-align: center;
+  background: #141414;
+  color: white;
+}
+
+.big-text-1{
+ font-size: 90px;
+ color: #00bcff;
+ font-family: 'Archivo Black', sans-serif;
+}
+
+.small-text-1{
+  font-family: 'Fredoka One', cursive;
+  font-size: 30px;
+  color: white;
+}
+
+.icon-bar {
+    width: 100%; /* Full-width */
+    background-color: white; /* Dark-grey background */
+    overflow: auto; /* Overflow due to float */
+}
+
+.icon-bar a {
+    float: left; /* Float links side by side */
+    text-align: center; /* Center-align text */
+    width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
+    padding: 12px 0; /* Some top and bottom padding */
+    transition: all 0.3s ease; /* Add transition for hover effects */
+    color: black; /* White text color */
+    font-size: 36px; /* Increased font size */
+}
+
+.icon-bar a:hover {
+    background-color: #00bcff; /* Add a hover color */
+}
+
