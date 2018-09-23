@@ -5,5 +5,5 @@ var person = prompt("Please enter your name", "name")
   txt = "User exits the prompt.";
  }
  else {
-  txt = "Hello " + person + "Welcome to the Aezlo Site";
+  window.alert("Hello " + person, + "Welcome to the Aezlo Site";
  }
